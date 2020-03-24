@@ -18,7 +18,7 @@ $(function() {
     manualRowResize : true,
     manualColumnResize : true,
     rowHeaders: false,
-    colWidths:150,
+    colWidths:200,
     rowHeights:30,
     colHeaders: [
       '语言名称',
